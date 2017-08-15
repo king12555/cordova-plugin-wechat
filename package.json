@@ -1,0 +1,30 @@
+{
+  "name": "cordova-plugin-wechat",
+  "version": "1.0.0",
+  "description": "A cordova plugin, a JS version of Wechat SDK",
+  "cordova": {
+    "id": "cordova-plugin-wechat",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/king12555/cordova-plugin-wechat.git"
+  },
+  "keywords": [
+    "cordova",
+    "wechat",
+    "weixin",
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova-android"
+  ],
+  "author": "king12555",
+  "license": "HX",
+  "bugs": {
+    "url": "https://github.com/king12555/cordova-plugin-wechat/issues"
+  },
+  "homepage": "https://github.com/king12555/cordova-plugin-wechat#readme"
+}
